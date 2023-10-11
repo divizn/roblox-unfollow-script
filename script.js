@@ -1,3 +1,8 @@
+// 1. go to following page
+// 2. open console
+// 3. paste this script
+// 4. call unfollow() function
+
 const sleep = (ms) => {
   return new Promise((resolve) => setTimeout(resolve, ms));
 };
